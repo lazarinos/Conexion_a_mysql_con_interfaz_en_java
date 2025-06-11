@@ -12,7 +12,7 @@ public class Main {
         objFP.setVisible(true);
 
       /*  Connection con;
-        con = clsConexBD.getConnection(); // Nombre corregido
+        con = clsConexBD.getConnection();
 
         clsConexBD.finConexionDB();*/
     }
